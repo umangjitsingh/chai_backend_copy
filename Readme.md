@@ -1,3 +1,3 @@
 #chai aur backend di copy
 
-pta nai kyon banwai a eh wali file.. shaid git lai howe 
+For future use. Jo v links hon ge ethe paste krange..
